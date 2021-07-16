@@ -1,1 +1,2 @@
-develop_fixs
+ローカルで変更しました
+develop_fixed
